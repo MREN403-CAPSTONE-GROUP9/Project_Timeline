@@ -1,5 +1,3 @@
 # Project_Timeline
 
-This repository is simply to store all files related to the project timeline and tasks assigned. 
-
-All documentation files will exist in the Microsoft Teams, and software will exist in the appropriate repositories
+This repository is simply used to populate the Gantt chart found in https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/2

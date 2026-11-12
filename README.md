@@ -18,11 +18,11 @@ The project is organized into several major phases:
 
 View the interactive project schedule, including individual tasks, assignments, deadlines, and milestones:
 
-**[View Project Gantt Chart]((https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/2))**
+**[View Project Gantt Chart](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/2)**
 
 ## Related Links
 
-- [Main Project Portfolio]((https://github.com/MREN403-CAPSTONE-GROUP9))
+[Main Project Portfolio](https://github.com/MREN403-CAPSTONE-GROUP9)
 
 ---
 
